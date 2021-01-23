@@ -46,7 +46,7 @@ export const Header = () => {
                     <ul>
                         <li className='active'><a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">หน้าแรก</a></li>
                         <li><a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">สมัครสมาชิก</a></li>
-                        <li><a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">UFABET</a></li>
+                        <li><a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">BNKBET</a></li>
                         <li><a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">ทางเข้าเล่น</a></li>
                         <li><a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">บาคาร่าออนไลน์</a></li>
                         <li><a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">คาสิโนออนไลน์</a></li>

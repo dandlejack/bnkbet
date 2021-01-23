@@ -125,7 +125,7 @@ export const LandingPage = () => {
                             <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer" style={{ color: '#00ff00' }}> | </a>
                             <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer" style={{ color: '#00ff00' }}>SA Gaming</a>
                             <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer" style={{ color: '#00ff00' }}> | </a>
-                            <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer" style={{ color: '#00ff00' }}>Ufa Slot</a>
+                            <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer" style={{ color: '#00ff00' }}>BNKBET Slot</a>
                             <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer" style={{ color: '#00ff00' }}> | </a>
                             <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer" style={{ color: '#00ff00' }}>Sexy Gaming</a>
                             <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer" style={{ color: '#00ff00' }}> | </a>
