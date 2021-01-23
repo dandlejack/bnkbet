@@ -34,7 +34,7 @@ export const LandingPage = () => {
                     </p>
                     <p style={{ textAlign: 'left' }}>
                         <span style={{ color: '#ffff00' }}><strong>แทงบอลออนไลน์ </strong> </span>
-                        <span style={{ fontWeight: 400 }}>ผ่านเว็บบอลที่ดีที่สุด UFABALL88 เว็บใหญ่ จ่ายจริง จ่ายไม่อั้น ที่ได้ชื่อว่าเป็นเว็บที่ให้ราคาบอลดีที่สุด แสดงให้เห็นถึงความมั่นคงของเว็บในแง่ของการกำหนดนโยบายในการออก ราคาบอลเพียงแค่ 4 ตังค์ ซึ่งถือว่าเป็นเงื่อนไขของการกำหนดราคาบอลที่ให้ราคาดีที่สุด เพราะโดยทั่วไปแล้วเว็บอื่นๆที่ไม่ใช่เว็บในเครือBNKBET มีข้อเสนอของการออกราคาบอลที่ 8 – 10 ตังค์ขึ้นไป เราจะเห็นได้ว่าส่วนต่างที่เกิดขึ้นตรงนี้ เมื่อนำมาคำนวณเป็นค่าน้ำ จะมีมูลค่าค่อนข้างสูง โดยเฉพาะอย่างยิ่งถ้าเราเลือกวางเดิมพันกับ การ </span>
+                        <span style={{ fontWeight: 400 }}>ผ่านเว็บบอลที่ดีที่สุด BNKBET เว็บใหญ่ จ่ายจริง จ่ายไม่อั้น ที่ได้ชื่อว่าเป็นเว็บที่ให้ราคาบอลดีที่สุด แสดงให้เห็นถึงความมั่นคงของเว็บในแง่ของการกำหนดนโยบายในการออก ราคาบอลเพียงแค่ 4 ตังค์ ซึ่งถือว่าเป็นเงื่อนไขของการกำหนดราคาบอลที่ให้ราคาดีที่สุด เพราะโดยทั่วไปแล้วเว็บอื่นๆที่ไม่ใช่เว็บในเครือBNKBET มีข้อเสนอของการออกราคาบอลที่ 8 – 10 ตังค์ขึ้นไป เราจะเห็นได้ว่าส่วนต่างที่เกิดขึ้นตรงนี้ เมื่อนำมาคำนวณเป็นค่าน้ำ จะมีมูลค่าค่อนข้างสูง โดยเฉพาะอย่างยิ่งถ้าเราเลือกวางเดิมพันกับ การ </span>
                         <span style={{ color: '#ffff00' }}><strong>แทงบอลออนไลน์ </strong> </span>
                         <span style={{ fontWeight: 400 }}>ที่จะต้องเอาค่าน้ำไปคูณกับจำนวนคู่ ที่เลือกวางเดิมพันลงไปก็จะยิ่ง ทำให้เห็นถึงสัดส่วนของผลกำไรที่เกิดขึ้นอย่างชัดเจน </span>
                     </p>
@@ -56,7 +56,7 @@ export const LandingPage = () => {
                         <span style={{ color: '#ffff00' }}><strong>แทงบอลสเต็ป แทงบอลเดี่ยว </strong> </span>
                         <span style={{ fontWeight: 400 }}> และในรูปแบบของการแทงบอลล่วงหน้าการ </span>
                         <span style={{ color: '#ffff00' }}>แทงบอลสด แทงบอลสดออนไลน์  </span>
-                        <span style={{ fontWeight: 400 }}>  ซึ่งจะทำให้มีโอกาสที่จะได้พบกับราคาบอลที่มีความแตกต่างกันออกไปใครแม่นเรื่องการวิเคราะห์บอลก็เลือกวางเดิมพันในรูปแบบของบอลล่วงหน้า ที่มีโอกาสจะได้รับผลกำไรจากค่าน้ำที่ดีที่สุด ใครที่ยังไม่มีความชำนาญในการวิเคราะห์มากนัก ก็ยังมีโอกาสเข้าร่วมเดิมพันในส่วนของการแทงบอลสดที่เราสามารถทำได้ไปพร้อมกับการรับชมเกมการแข่งขัน UFABALL88 ยังสนับสนุนการวางเดิมพันเต็มรูปแบบ ด้วยการออกราคาบอลที่ดีที่สุดอัปเดตราคาอย่างรวดเร็ว ตามสถานการณ์ที่เกิดขึ้นจริงในสนามทำให้เราได้เจอกับเงื่อนไขของการเดิมพัน ที่ผู้เล่นมีความได้เปรียบผู้รับวางเดิมพันอย่างเห็นได้ชัดเจน  นี่คือคุณสมบัติของการวางเดิมพันกับเว็บแทงบอลที่ดีที่สุดแห่งนี้  </span>
+                        <span style={{ fontWeight: 400 }}>  ซึ่งจะทำให้มีโอกาสที่จะได้พบกับราคาบอลที่มีความแตกต่างกันออกไปใครแม่นเรื่องการวิเคราะห์บอลก็เลือกวางเดิมพันในรูปแบบของบอลล่วงหน้า ที่มีโอกาสจะได้รับผลกำไรจากค่าน้ำที่ดีที่สุด ใครที่ยังไม่มีความชำนาญในการวิเคราะห์มากนัก ก็ยังมีโอกาสเข้าร่วมเดิมพันในส่วนของการแทงบอลสดที่เราสามารถทำได้ไปพร้อมกับการรับชมเกมการแข่งขัน BNKBET ยังสนับสนุนการวางเดิมพันเต็มรูปแบบ ด้วยการออกราคาบอลที่ดีที่สุดอัปเดตราคาอย่างรวดเร็ว ตามสถานการณ์ที่เกิดขึ้นจริงในสนามทำให้เราได้เจอกับเงื่อนไขของการเดิมพัน ที่ผู้เล่นมีความได้เปรียบผู้รับวางเดิมพันอย่างเห็นได้ชัดเจน  นี่คือคุณสมบัติของการวางเดิมพันกับเว็บแทงบอลที่ดีที่สุดแห่งนี้  </span>
                     </p>
                     <p style={{ textAlign: 'left' }}>
                         <span style={{ fontWeight: 400 }}>สำหรับสมาชิกใหม่ เปิดยูสเพียง 100 บาท </span>
@@ -85,7 +85,7 @@ export const LandingPage = () => {
                         <span style={{ color: '#00ff00' }}><strong>แทงบอล</strong> </span>
                         <span style={{ fontWeight: 400 }}>ที่มาแรงที่สุดเป็นอันดับ 1 ในไทยบริการดีที่สุดจากทีมงานคุณภาพ 100% ง่ายด้วยระบบภาษาไทยทั้งหมด แจกโปรและเครดิตมากมายสามารถเล่นเกมคาสิโนยอดนิยมเช่น บาคาร่า สล็อต แบล็คแจ็ค ไฮโล รูเล็ต เสือมังกร ได้พร้อมกันได้อีกด้วยง่ายผ่านผ่านมือถือและคอมพิวเตอร์โดยไม่ต้องดาวโหลด สมัครสมาชิกผ่านเจ้าหน้าที่ได้ตลอด 24 ชั่วโมง ระบบฝาก-ถอนโดยอัติโนมัติไม่ต้องรอนานใช้เวลาแค่เพียง 10 นาที เว็บแทงบอลออนไลน์สมัยใหม่จาก </span>
                         <span style={{ color: '#00ff00' }}>BNKBET </span>
-                        <span style={{ fontWeight: 400 }}>ที่มาแรงที่สุดในไทยเวลานี้โดดเด่นด้วยระบบการเล่นที่ทันสมัยครบพร้อมด้วยเกมส์ออนไลน์ที่เปิดให้เดิมพันมากมาย Ufabet เว็บใหญ่และดีที่สุดในเอเชียและเมืองไทยในขณะนี้ สามารถครองใจผู้เล่นมาแล้วหลายล้านคนทั่วแถบเอเชียเป็นที่รู้จักกันดีในฐานะแบรนด์อันดับ 1 มีเกมคาสิโนหลากหลายที่พร้อมมอบประสบการณ์สุดพิเศษแก่ผู้เล่นแต่ละรายตอบสนองการเดิมพันได้ง่ายเพียงปลายนิ้วสัมผัสผ่านคอมพิวเตอร์, แท็บเล็ต และ โทรศัพท์มือถือ ทั้งยังมี </span>
+                        <span style={{ fontWeight: 400 }}>ที่มาแรงที่สุดในไทยเวลานี้โดดเด่นด้วยระบบการเล่นที่ทันสมัยครบพร้อมด้วยเกมส์ออนไลน์ที่เปิดให้เดิมพันมากมาย BNKBET เว็บใหญ่และดีที่สุดในเอเชียและเมืองไทยในขณะนี้ สามารถครองใจผู้เล่นมาแล้วหลายล้านคนทั่วแถบเอเชียเป็นที่รู้จักกันดีในฐานะแบรนด์อันดับ 1 มีเกมคาสิโนหลากหลายที่พร้อมมอบประสบการณ์สุดพิเศษแก่ผู้เล่นแต่ละรายตอบสนองการเดิมพันได้ง่ายเพียงปลายนิ้วสัมผัสผ่านคอมพิวเตอร์, แท็บเล็ต และ โทรศัพท์มือถือ ทั้งยังมี </span>
                         <span style={{ color: '#00ff00' }}>โปรโมชั่น, โบนัส และ เงินรางวัลสุดพิเศษอีกมากมาย </span>
                         <span style={{ fontWeight: 400 }}>เปิดให้บริการตลอด 24 ชั่วโมง พร้อมมีโปรโมชั่นข่าวสารอัพเดตลอดเวลา </span>
                         <span style={{ color: '#00ff00' }}>สมัครแทงบอล </span>
@@ -220,7 +220,7 @@ export const LandingPage = () => {
                     <div className='p-2.5'>
                         <div>
                             <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">
-                                <img alt='bnkbet' src='https://www.ufaball88.com/wp-content/uploads/2020/01/เสือมังกรออนไลน์-1.jpg' style={{ height: '100%', width: '100%', objectFit: 'cover' }} />
+                                <img alt='bnkbet' src='https://www.BNKBET.com/wp-content/uploads/2020/01/เสือมังกรออนไลน์-1.jpg' style={{ height: '100%', width: '100%', objectFit: 'cover' }} />
                             </a>
                         </div>
                         <div className='widget-text'>
@@ -236,7 +236,7 @@ export const LandingPage = () => {
                     <div className='p-2.5'>
                         <div>
                             <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">
-                                <img alt='bnkbet' src='https://www.ufaball88.com/wp-content/uploads/2020/01/สล็อตออนไลน์ได้เงินจริง-1-300x150.jpg' style={{ height: '100%', width: '100%', objectFit: 'cover' }} />
+                                <img alt='bnkbet' src='https://www.BNKBET.com/wp-content/uploads/2020/01/สล็อตออนไลน์ได้เงินจริง-1-300x150.jpg' style={{ height: '100%', width: '100%', objectFit: 'cover' }} />
                             </a>
                         </div>
                         <div className='widget-text'>
@@ -252,7 +252,7 @@ export const LandingPage = () => {
                     <div className='p-2.5'>
                         <div>
                             <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">
-                                <img alt='bnkbet' src='https://www.ufaball88.com/wp-content/uploads/2020/01/แทงบอลสูงต่ำ-1.jpg' style={{ height: '100%', width: '100%', objectFit: 'cover' }} />
+                                <img alt='bnkbet' src='https://www.BNKBET.com/wp-content/uploads/2020/01/แทงบอลสูงต่ำ-1.jpg' style={{ height: '100%', width: '100%', objectFit: 'cover' }} />
                             </a>
                         </div>
                         <div className='widget-text'>
@@ -273,7 +273,7 @@ export const LandingPage = () => {
                         </div>
                         <div className='content'>
                             <p style={{ textAlign: 'left' }}>
-                                <span>พนันบอล ปลอดภัย 100% ไม่ผ่านเอเย่นต์ เว็บตรง มั่นคง ปลอดภัย การเงินมั่นคง สามารถเล่นบนมือถือได้ไม่ต้องดาวน์โหลดและติดตั้ง เล่นได้ผ่านเว็บ Mobile ทันทีทั้งระบบ iOS และ Android รวดเร็ว สะดวก เมื่อท่านใช้มือถือในพนันบอลไม่ควรพลาด!! ให้บริการโดยทีมงานคุณภาพ พวกเรากล้าที่จะทำสิ่งใหม่ๆ ด้วยเทคโนโลยีใหม่ๆ ทำให้เว็บ UFABET น่าใช้ น่าเล่นและเหมาะกับคนรุ่นใหม่ หากคุณเบื่อกับการเดิมพันแบบเดิมๆ ที่นี่คุณจะไม่ผิดหวัง สะดวกสบายสุดๆ</span>
+                                <span>พนันบอล ปลอดภัย 100% ไม่ผ่านเอเย่นต์ เว็บตรง มั่นคง ปลอดภัย การเงินมั่นคง สามารถเล่นบนมือถือได้ไม่ต้องดาวน์โหลดและติดตั้ง เล่นได้ผ่านเว็บ Mobile ทันทีทั้งระบบ iOS และ Android รวดเร็ว สะดวก เมื่อท่านใช้มือถือในพนันบอลไม่ควรพลาด!! ให้บริการโดยทีมงานคุณภาพ พวกเรากล้าที่จะทำสิ่งใหม่ๆ ด้วยเทคโนโลยีใหม่ๆ ทำให้เว็บ BNKBET น่าใช้ น่าเล่นและเหมาะกับคนรุ่นใหม่ หากคุณเบื่อกับการเดิมพันแบบเดิมๆ ที่นี่คุณจะไม่ผิดหวัง สะดวกสบายสุดๆ</span>
                             </p>
                             <img alt='bnkbet' src={bnkads02} style={{ height: '100%', width: '100%', objectFit: 'cover' }} />
 
@@ -300,7 +300,7 @@ export const LandingPage = () => {
                                     <div >
                                         <div className='shine-hover'>
                                             <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">
-                                            <img alt='bnkbet' src='https://www.ufaball88.com/wp-content/uploads/2020/02/sa-gaming.png' style={{ maxWidth: 100, margin: '10px auto' }} />
+                                            <img alt='bnkbet' src='https://www.BNKBET.com/wp-content/uploads/2020/02/sa-gaming.png' style={{ maxWidth: 100, margin: '10px auto' }} />
                                         </a>
                                         </div>                                        
                                         <div className='widget-text'>
@@ -316,7 +316,7 @@ export const LandingPage = () => {
                                     <div >
                                         <div className='shine-hover'>
                                             <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">
-                                            <img alt='bnkbet' src='https://www.ufaball88.com/wp-content/uploads/2020/02/logo-w88.png' style={{ maxWidth: 100, margin: '10px auto' }} />
+                                            <img alt='bnkbet' src='https://www.BNKBET.com/wp-content/uploads/2020/02/logo-w88.png' style={{ maxWidth: 100, margin: '10px auto' }} />
                                         </a>
                                         </div>                                        
                                         <div className='widget-text'>
@@ -334,7 +334,7 @@ export const LandingPage = () => {
                                     <div >
                                         <div className='shine-hover'>
                                             <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">
-                                            <img alt='bnkbet' src='https://www.ufaball88.com/wp-content/uploads/2020/02/logo-joker.png' style={{ maxWidth: 100, margin: '10px auto' }} />
+                                            <img alt='bnkbet' src='https://www.BNKBET.com/wp-content/uploads/2020/02/logo-joker.png' style={{ maxWidth: 100, margin: '10px auto' }} />
                                         </a>
                                         </div>                                        
                                         <div className='widget-text'>
@@ -350,7 +350,7 @@ export const LandingPage = () => {
                                     <div >
                                         <div className='shine-hover'>
                                             <a href="https://lin.ee/qmyYJcY" target="_blank" rel="noreferrer">
-                                            <img alt='bnkbet' src='https://www.ufaball88.com/wp-content/uploads/2020/02/gold_deluxe.png' style={{ maxWidth: 100, margin: '10px auto' }} />
+                                            <img alt='bnkbet' src='https://www.BNKBET.com/wp-content/uploads/2020/02/gold_deluxe.png' style={{ maxWidth: 100, margin: '10px auto' }} />
                                         </a>
                                         </div>                                        
                                         <div className='widget-text'>
@@ -380,7 +380,7 @@ export const LandingPage = () => {
                                 <li className='flex'><span className='list-icon'><i ></i></span><span className='li-text'>มีระบบหน้าต่างแสดงสถิติ การยิงประตู อัตราการบุก แต่ละทีมที่กำลังแข่งขัน ให้ดูเพื่อเพิ่มอรรถรสในการลุ้นบอล</span></li>
                                 <li className='flex'><span className='list-icon'><i ></i></span><span className='li-text'>รองรับมือถือทุกระบบ ทั้งระบบ android และ IOS</span></li>
                                 <li className='flex'><span className='list-icon'><i ></i></span><span className='li-text'>ระบบภาษาไทย 100% เล่นไม่เป็นสอนให้</span></li>
-                                <li className='flex'><span className='list-icon'><i ></i></span><span className='li-text'>สามารถโหลดแอฟ ufabet มาติดตั้งในสมาร์ทโฟนได้</span></li>
+                                <li className='flex'><span className='list-icon'><i ></i></span><span className='li-text'>สามารถโหลดแอฟ BNKBET มาติดตั้งในสมาร์ทโฟนได้</span></li>
                                 <li className='flex'><span className='list-icon'><i ></i></span><span className='li-text'>ล๊อคอินยูสเซอร์ในสมาร์ทโฟนทิ้งไว้ได้ตลอด ไม่มีเด้งออก หากไม่มีการปิดแอฟเว็บบราวเซอร์ หรือ มีล๊อคอินซ้อนในเครื่องอื่น</span></li>
                                 <li className='flex'><span className='list-icon'><i ></i></span><span className='li-text'>สมัครสมาชิกBNKBET พร้อมบริการลูกค้าตลอด 24 ชั่วโมง ไม่มีวันหยุดทำการ</span></li>
                             </ul>
@@ -395,7 +395,7 @@ export const LandingPage = () => {
                     </div>
                     <div className='text-white'>
                         <p style={{textAlign:'left'}}>
-                            <span>อัพเดทเทคนิคแทงบอลระดับเทพ สูตรการแทงบอล สูตรคาสิโน บาคาร่า สล็อต 2020 ที่จะไม่ทำไห้ท่านผิดหวัง เทคนิคระดับเซียนที่ท่านไม่พลาด จาก Ufaball88.com เว็บพนันระดับประเทศที่ได้รับความนิยมอย่างและดีที่สุดในไทยเเละเอเชีย</span>
+                            <span>อัพเดทเทคนิคแทงบอลระดับเทพ สูตรการแทงบอล สูตรคาสิโน บาคาร่า สล็อต 2020 ที่จะไม่ทำไห้ท่านผิดหวัง เทคนิคระดับเซียนที่ท่านไม่พลาด จาก BNKBET.com เว็บพนันระดับประเทศที่ได้รับความนิยมอย่างและดีที่สุดในไทยเเละเอเชีย</span>
                         </p>
                     </div>
                     <div className='grid grid-cols-3 text-white'>
