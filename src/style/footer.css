@@ -1,0 +1,22 @@
+p {
+    margin-top: 0px;
+    margin-bottom: 0.9rem;
+    line-height: 1.5;
+}
+.footer {
+    border-width: 5px 0 0 0;
+    border-style: solid;
+    border-color: #B68600;
+    transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 25px 0px 10px 0px;
+}
+.section-footer {
+    padding-top: 25px;
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: rgba(255,255,255,0.25);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top:40px;
+    margin-bottom: 0px;
+    padding:14px 0px 0px 0px;
+}

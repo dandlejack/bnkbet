@@ -1,0 +1,88 @@
+
+.input-field {
+    background-color: #3A2C0F;
+    border-color: #C1AC51;
+    color:#C1AC51;
+    min-height: 40px;
+    border:1px solid #C1AC51;
+    padding: 4px 16px;
+    border-radius: 3px;
+}
+.input-field::placeholder {
+    color:#C1AC51;
+}
+.input-field:focus {
+    border:1px solid #C1AC51;
+}
+.login-btn {
+    background-color:#B68600;
+    color:#fff;
+    border: 1px solid #8D6800;
+    border-color: #8D6800;
+    border-width: 0px 0px 3px 0px;
+    min-height: 40px;
+    padding: 4px 16px;
+    border-radius: 3px;
+    font-weight: 500;
+}
+.register-btn{
+    background-color:#FFBB00;
+    color:#fff;
+    border-style: solid;
+    border-color: #B68600;
+    border-width: 0px 0px 3px 0px;
+    min-height: 40px;
+    padding: 4px 16px;
+    border-radius: 3px;
+    font-weight: 800;
+}
+.contactus-btn{
+    background-color:#00D002;
+    color:#fff;
+    border-style: solid;
+    border-color: #009701;
+    border-width: 0px 0px 3px 0px;
+    min-height: 40px;
+    padding: 4px 16px;
+    border-radius: 3px;
+    font-weight: 800;
+}
+.section {
+    position: relative;
+}
+.section-header {
+    border-style: solid;
+    border-width: 1px 0px 1px 0px;
+    border-color: #F7EEAD;
+    box-shadow: 0px -1px 20px 0px rgb(12 0 0 / 81%);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    z-index: 10;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    background: linear-gradient(135deg, rgba(111, 81, 19, 1) 0%, rgba(251, 247, 200, 1) 50%, rgba(111, 81, 19, 1) 100%);
+}
+.nav-menu {
+    display: flex;
+}
+ul {
+    list-style-type: none;
+    margin: 0px auto;
+    padding: 0;
+    overflow: hidden;
+
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: #C1AC51;
+}
+.active {
+    background-color: #C1AC51;
+  }
